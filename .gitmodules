@@ -1,0 +1,3 @@
+[submodule "grammars/ron"]
+	path = grammars/ron
+	url = ../../tree-sitter-grammars/tree-sitter-ron

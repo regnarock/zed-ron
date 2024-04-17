@@ -1,0 +1,15 @@
+{
+  "name": "Ron",
+  "version": "0.0.1",
+  "authors": [
+    "Thomas Wilgenbus <thomas.wilgenbus@gmail.com>"
+  ],
+  "description": "Ron language support for Zed",
+  "repository": "https://github.com/regnarock/zed-ron",
+  "languages": {
+    "Ron": "languages/ron"
+  },
+  "grammars": {
+    "ron": "grammars/ron.wasm"
+  }
+}
